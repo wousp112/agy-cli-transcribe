@@ -1,0 +1,7 @@
+interface:
+  display_name: "AGY CLI Transcribe"
+  short_description: "Transcribe audio with local AGY CLI"
+  default_prompt: "Use $agy-cli-transcribe to transcribe these audio files with local AGY CLI."
+
+policy:
+  allow_implicit_invocation: false
